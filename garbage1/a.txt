@@ -1,0 +1,13 @@
+esto fue con obs
+recortar los ultimos segundos o talvez tmb los primeros xq hay delay
+
+mas tarde talvez despues del examen d itgs sacar algo para coger las caras y recortarlas con opencv o gan o no c
+solo sacar cuando hablan o mueven la boca, colores claros y no mucho movimiento
+todo para un poc no para finales
+intentar mantener un ratio sano del tamaño de las caras para evitar alteraciones (ejemplo el huevon que uso 3 styles en el repo de github)
+
+y es q no c lolll
+
+revisar favoritos en gh
+TODO: ojo tmb ir a asus a quejarse para sacar la boleta de la laptop y la pantalla para RESTREGARSELA EN LA CARA A KIRITO
+antes de fin de examenes pls thx <333
